@@ -5,7 +5,7 @@
 [![Documentation](https://img.shields.io/badge/docs-view-green.svg)](https://documentation.wazuh.com)
 [![Documentation](https://img.shields.io/badge/web-view-green.svg)](https://wazuh.com)
 
-In this repository you will find the containers to run:
+In this repository you find the containers to run:
 
 * Wazuh manager: it runs the Wazuh manager, Wazuh API and Filebeat OSS
 * Wazuh dashboard: provides a web user interface to browse through alert data and allows you to visualize the agents configuration and status.
